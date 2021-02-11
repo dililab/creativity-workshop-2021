@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "Virtual Workshop<br />February 18–19, 2021"
+excerpt: "Virtual Workshop at Bielefeld University<br />February 18–19, 2021"
 layout: single
 classes: wide
 header:
