@@ -7,7 +7,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.1"
   overlay_image: /assets/images/lili-blueishgrey.png
-  logo: /assets/images/ubi-lili-logo.png
 ---
 
 The workshop will take place February 18–19, 2021. This is the preliminary workshop programme. All times are in CET (UTC+1). Zoom-Links will be posted here prior to the workshop.
