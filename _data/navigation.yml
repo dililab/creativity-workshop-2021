@@ -1,0 +1,12 @@
+main:
+  - title: "Workshop"
+    url: /
+  - title: "Programme"
+    url: /programme/
+  - title: "Participants"
+    url: /participant/
+  - title: "Organisation"
+    url: /organisation/
+  - title: "Impressum"
+    url: https://www.uni-bielefeld.de/impressum/
+
