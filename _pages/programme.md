@@ -27,7 +27,7 @@ The workshop will take place February 18–19, 2021. This is the preliminary wor
 | 16:15 - 17:30 | Invited talk:  [Bonnie Nozari](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/n-bonnie-nozari.html)          |
 | 17:30 - 18:00 | Wrap-up day 1                        |
 
-s
+
 ## Programme for Friday, Feb 19, 2021
 
 | Time          | Topic                                |
