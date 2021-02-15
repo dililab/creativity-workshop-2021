@@ -20,6 +20,7 @@ The workshop will take place February 18–19, 2021. This is the preliminary wor
 | 10:00 - 11:15 | Invited talk: [Nicholas Asher](https://www.irit.fr/~Nicholas.Asher/)          |
 | 11:15 - 11:45 | _Coffee Break_                       |
 | 11:45 - 13:00 | Invited talk: [Jonathan Harrington](https://www.phonetik.uni-muenchen.de/personen/professoren/harrington_jonathan/index.html) |
+| ------------- | Creating new sounds from interacting speakers: a cognitively-inspired computational model |
 | 13:00 - 14:30 | _Lunch Break_                        |
 | 14:30 - 15:45 | Invited talk: [Bruno Galantucci](https://sites.google.com/site/brunogalantucci/home)       |
 | 15:45 - 16:15 | _Coffee Break_                       |
