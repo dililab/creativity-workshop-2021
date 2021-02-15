@@ -20,12 +20,15 @@ The workshop will take place February 18–19, 2021. This is the preliminary wor
 | 10:00 - 11:15 | Invited talk: [Nicholas Asher](https://www.irit.fr/~Nicholas.Asher/)          |
 | 11:15 - 11:45 | _Coffee Break_                       |
 | 11:45 - 13:00 | Invited talk: [Jonathan Harrington](https://www.phonetik.uni-muenchen.de/personen/professoren/harrington_jonathan/index.html) |
-| ------------- | Creating new sounds from interacting speakers: a cognitively-inspired computational model |
+|               | Creating new sounds from interacting speakers: a cognitively-inspired computational model |
 | 13:00 - 14:30 | _Lunch Break_                        |
 | 14:30 - 15:45 | Invited talk: [Bruno Galantucci](https://sites.google.com/site/brunogalantucci/home)       |
+|               | The fundamentals of human communication: a method to study them, a perspective to understand them |
 | 15:45 - 16:15 | _Coffee Break_                       |
 | 16:15 - 17:30 | Invited talk:  [Bonnie Nozari](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/n-bonnie-nozari.html)          |
+|               | Where does interference come from in language production? |
 | 17:30 - 18:00 | Wrap-up day 1                        |
+
 
 
 ## Programme for Friday, Feb 19, 2021
