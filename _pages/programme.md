@@ -18,6 +18,7 @@ The workshop will take place February 18–19, 2021. This is the preliminary wor
 | ------------- | ------------------------------------ |
 | 09:00 - 10:00 | Welcome and Introduction: Ralf Vogel |
 | 10:00 - 11:15 | Invited talk: [Nicholas Asher](https://www.irit.fr/~Nicholas.Asher/)          |
+|               | Coercing content and epistemic content |
 | 11:15 - 11:45 | _Coffee Break_                       |
 | 11:45 - 13:00 | Invited talk: [Jonathan Harrington](https://www.phonetik.uni-muenchen.de/personen/professoren/harrington_jonathan/index.html) |
 |               | Creating new sounds from interacting speakers: a cognitively-inspired computational model |
