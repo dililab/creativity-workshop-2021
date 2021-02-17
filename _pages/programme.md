@@ -45,7 +45,7 @@ All times are in CET (UTC+1). Follow the links to enter the Zoom-meetings.
 | 11:00 - 12:30 | Focus Group Meetings                 |
 |               | - FG 2: Meaning                      |
 |               | - FG 5: Linguistic creativity in speakers with limited language competence/ cognitive resources |
-|               | - FG 7: Computational modelling      |
+|               | - FG 7: Computational modelling ([Zoom](https://uni-bielefeld.zoom.us/j/98285571325?pwd=V3dXejhRRmNwRmdkbDQ0RXQvR1cyQT09))     |
 | 12:30 - 14:00 | _Lunch Break_                        |
 | 14:00 - 15:30 | Focus Group Meetings                 |
 |               | - FG 4: Processing                   |
