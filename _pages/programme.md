@@ -30,7 +30,7 @@ All times are in CET (UTC+1). Follow the links to enter the Zoom-meetings.
 | 15:45 - 16:15 | _Coffee Break_                       |
 | 16:15 - 17:30 | Invited talk:  [Bonnie Nozari](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/n-bonnie-nozari.html)          |
 |               | _Where does interference come from in language production?_ |
-| 17:30 - 18:00 | Wrap-up day 1                        |
+| 17:30         | Wrap-up day 1                        |
 
 
 
