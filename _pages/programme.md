@@ -9,10 +9,12 @@ header:
   overlay_image: /assets/images/lili-blueishgrey.png
 ---
 
-The workshop will take place February 18–19, 2021. This is the preliminary workshop programme. All times are in CET (UTC+1). Zoom-Links will be posted here prior to the workshop.
+All times are in CET (UTC+1). Follow the links to enter the Zoom-meetings.
 
 
 ## Programme for Thursday, Feb 18, 2021
+
+[Zoom (Pw: 165887)](https://uni-bielefeld.zoom.us/j/92567493010?pwd=M3h0ZlVoa0cxdVFxU3dzdG1rY3NVdz09)
 
 | Time          | Topic                                |
 | ------------- | ------------------------------------ |
@@ -50,4 +52,5 @@ The workshop will take place February 18–19, 2021. This is the preliminary wor
 |               | - FG 6: Social, contextual and interactional aspects |
 | 15:30 - 16:00 | _Coffee Break_                       |
 | 16:00 - 17:00 | Final Panel Discussion               |
+|               | [Zoom (Pw: 165887)](https://uni-bielefeld.zoom.us/j/92567493010?pwd=M3h0ZlVoa0cxdVFxU3dzdG1rY3NVdz09)|
 
