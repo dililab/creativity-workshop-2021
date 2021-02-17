@@ -18,6 +18,10 @@ vary drastically on various aspects of it, such as what is meant by creative lin
 what are its tools, who is creative in communication and how creative language
 use is distinguished from noncreative use.
 
+While linguistic creativity within the limits set by the language system (productivity) has been subject to major discussions, 
+linguistic creativity that goes beyond those borders set by the system (general creativity) received less attention so far. 
+The workshop features this latter kind of linguistic creativity. Talks and discussions scrutinize its mechanisms, benefits and limits.
+
 
 ### Important Dates:
 
