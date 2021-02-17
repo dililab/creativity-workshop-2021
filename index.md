@@ -11,7 +11,12 @@ header:
 
 ---
 
-TODO: Add a short description of the workshop or and/or our take on creativity in language and communication (can we post text from the short summary we sent to the participants?)
+Creativity has been observed to be a core feature of human language already by 17th
+century philosophers like Descartes and his followers as well as Wilhelm von Humboldt.
+While this insight can today be considered common sense among scholars, the views
+vary drastically on various aspects of it, such as what is meant by creative linguistic behaviour,
+what are its tools, who is creative in communication and how creative language
+use is distinguished from noncreative use.
 
 
 ### Important Dates:
