@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/lili-blueishgrey.png
 ---
 
-All times are in CET (UTC+1). Please, follow the links to enter the Zoom-meetings.
+All times are in CET (UTC+1). Please, follow the links to enter the Zoom-meetings. In our breaks we will meet in [Gather.Town](https://gather.town/app/BJiEyJSbv3zsAOdF/creativity2021), the password is "coffeeandcigarettes".
 
 
 ## Programme for Thursday, Feb 18, 2021
