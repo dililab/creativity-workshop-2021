@@ -34,20 +34,20 @@ All times are in CET (UTC+1). In our breaks we will meet in [Gather.Town](https:
 
 ## Programme for Friday, Feb 19, 2021
 
-| Time          | Topic                                |
-| ------------- | ------------------------------------ |
-| 09:00 - 10:30 | Focus Group Meetings                 |
+| Time          | Topic                                            |
+| ------------- | ------------------------------------------------ |
+| 09:00 - 10:30 | Focus Group Meetings                             |
 |               | - FG 1: Linguistic and communicative conventions |
-|               | - FG 3: Sound and multimodality |
-| 10:30 - 11:00 | _Coffee Break_ |
-| 11:00 - 12:30 | Focus Group Meetings                 |
-|               | - FG 2: Meaning |
+|               | - FG 3: Sound and multimodality                  |
+| 10:30 - 11:00 | _Coffee Break_                                   |
+| 11:00 - 12:30 | Focus Group Meetings                             |
+|               | - FG 2: Meaning                                  |
 |               | - FG 5: Linguistic creativity in speakers with limited language competence/ cognitive resources |
-|               | - FG 7: Computational modelling |
-| 12:30 - 14:00 | _Lunch Break_  |
-| 14:00 - 15:30 | Focus Group Meetings                 |
-|               | - FG 4: Processing   |
+|               | - FG 7: Computational modelling                  |
+| 12:30 - 14:00 | _Lunch Break_                                    |
+| 14:00 - 15:30 | Focus Group Meetings                             |
+|               | - FG 4: Processing                               |
 |               | - FG 6: Social, contextual and interactional aspects |
-| 15:30 - 16:00 | _Coffee Break_ |
-| 16:00 - 17:00 | Final Panel Discussion |
+| 15:30 - 16:00 | _Coffee Break_                                   |
+| 16:00 - 17:00 | Final Panel Discussion                           |
 
