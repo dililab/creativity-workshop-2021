@@ -48,7 +48,7 @@ All times are in CET (UTC+1). Please, follow the links to enter the Zoom-meeting
 |               | - FG 7: Computational modelling ([Zoom](https://uni-bielefeld.zoom.us/j/98285571325?pwd=V3dXejhRRmNwRmdkbDQ0RXQvR1cyQT09))     |
 | 12:30 - 14:00 | _Lunch Break_ ([Gather](https://gather.town/app/BJiEyJSbv3zsAOdF/creativity2021))                       |
 | 14:00 - 15:30 | Focus Group Meetings                 |
-|               | - FG 4: Processing  ([Zoom](ttps://uni-bielefeld.zoom.us/j/94616325753?pwd=OURJdFRIOXRncmFpeFdCUjVxK21SQT09), PW: 699216)                 |
+|               | - FG 4: Processing  ([Zoom](https://uni-bielefeld.zoom.us/j/94616325753?pwd=OURJdFRIOXRncmFpeFdCUjVxK21SQT09), PW: 699216)                 |
 |               | - FG 6: Social, contextual and interactional aspects [Link](https://uni-bielefeld.zoom.us/j/94781317599?pwd=NWt4dmVycjAwNzMrSXRMYTVuVFpVUT09)) |
 | 15:30 - 16:00 | _Coffee Break_ ([Gather](https://gather.town/app/BJiEyJSbv3zsAOdF/creativity2021), PW: 426415)                      |
 | 16:00 - 17:00 | Final Panel Discussion ([Zoom](https://uni-bielefeld.zoom.us/j/92567493010?pwd=M3h0ZlVoa0cxdVFxU3dzdG1rY3NVdz09))|
