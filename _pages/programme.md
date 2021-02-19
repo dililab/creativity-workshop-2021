@@ -39,8 +39,8 @@ All times are in CET (UTC+1). Please, follow the links to enter the Zoom-meeting
 | Time          | Topic                                |
 | ------------- | ------------------------------------ |
 | 09:00 - 10:30 | Focus Group Meetings                 |
-|               | - FG 1: Linguistic and communicative conventions ([Link](https://uni-bielefeld.zoom.us/j/92472115029)) |
-|               | - FG 3: Sound and multimodality ([Zoom](https://uni-bielefeld.zoom.us/j/94650624077))    |
+|               | - FG 1: Linguistic and communicative conventions ([Link](https://uni-bielefeld.zoom.us/j/92472115029), PW: 164447) |
+|               | - FG 3: Sound and multimodality ([Zoom](https://uni-bielefeld.zoom.us/j/94650624077), PW: 509296)    |
 | 10:30 - 11:00 | _Coffee Break_ ([Gather](https://gather.town/app/BJiEyJSbv3zsAOdF/creativity2021))                      |
 | 11:00 - 12:30 | Focus Group Meetings                 |
 |               | - FG 2: Meaning   ([Zoom](https://uni-bielefeld.zoom.us/j/92020050020?pwd=TExpMmIxZ1h6am9uUTcvWExPYjRPQT09))  |
