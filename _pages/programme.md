@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/lili-blueishgrey.png
 ---
 
-All times are in CET (UTC+1). In our breaks we will meet in [Gather.Town](https://gather.town/app/BJiEyJSbv3zsAOdF/creativity2021).
+All times are in CET (UTC+1). In our breaks we will meet in [Gather.Town](http://gather.town/).
 
 
 ## Programme for Thursday, Feb 18, 2021
