@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/lili-blueishgrey.png
 ---
 
-The workshop is organised by the research initiatives on Creativity in Language and Communication at Bielefeld University.
+The workshop is organised by the research initiative on Creativity in Language and Communication at <a href="https://www.uni-bielefeld.de/">Bielefeld University</a>.
 
 ## Workshop Organisers
 
